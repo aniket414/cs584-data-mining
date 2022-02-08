@@ -1,0 +1,3 @@
+[submodule "car-insurance-fraud"]
+	path = car-insurance-fraud
+	url = git@github.com:aniket414/car-insurance-fraud.git
